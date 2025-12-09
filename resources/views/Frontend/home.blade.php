@@ -28,7 +28,7 @@
                                         <div class="row h-100 align-items-center">
                                             <div class="col-xl-6 col-lg-8">
                                                 <div class="slider-content">
-                                                    <h1 data-animation="animate__animated animate__fadeInUp animD-1">Your Trusted Home Security Partnerrrrrrrr</h1>
+                                                    <h1 data-animation="animate__animated animate__fadeInUp animD-1">Your Trusted Home Security Partner</h1>
                                                     <p data-animation="animate__animated animate__fadeInUp animD-2">Empowering homeowners with state-of-the-art security solutions for peace of mind and safety.</p>
                                                     <a href="tel:+15037146222" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
                                                 </div>
