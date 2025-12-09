@@ -159,7 +159,7 @@ a {
 }
 
 .service-section {
-    padding: 90px 0 90px;
+    padding: 90px 0 30px;
 }
 
 .testimony-section {
@@ -216,4 +216,8 @@ a {
 
 .highlights {
     color: #fb9a09;
+}
+
+.service-section .section-header {
+    margin-bottom: 30px;
 }

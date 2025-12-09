@@ -41,8 +41,16 @@
 
                         <div class="header-inner clearfix">
                             <div class="logo-outer">
-                                <div class="logo"><a href="/"><img src="/frontend/my-img/logo.png" alt="logo" style="width:auto; height:55px;"></a></div>
+                                <div class="logo">
+                                    <a href="/">
+                                        <img src="/frontend/my-img/logo.png" 
+                                            srcset="/frontend/my-img/logo@2x.png 2x, /frontend/my-img/logo@3x.png 3x"
+                                            alt="logo" 
+                                            style="height:55px; width:auto;">
+                                    </a>
+                                </div>
                             </div>
+
 
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-lg ml-lg-auto mr-xl-auto">
@@ -59,7 +67,7 @@
                                 <div class="navbar-collapse navbar-collapse-one collapse clearfix">
                                     <ul class="navigation clearfix">
                                         <li><a href="/">Home</a></li>
-                                        <li><a href="/#about">About</a></li>
+                                        <li><a href="/#about">About Us</a></li>
                                         <li><a href="/#contact">contact Us</a></li>
                                     </ul>
                                 </div>
@@ -219,185 +227,116 @@
 </a>
 {{-- Popup --}}
 
-<!-- Flash Sale Popup -->
-<div class="sale-popup" id="salePopup" style="display:none;">
-  <div class="sale-popup-inner">
-    <button class="sale-close" aria-label="Close">&times;</button>
+<div id="promoPopup" class="promo-popup-overlay">
+        <div class="promo-popup">
+            <!-- Logo Centered -->
+            <div class="popup-logo">
+                 <img src="/frontend/my-img/logo.png" alt="logo" style="max-width:220px;">
+            </div>
+            <span class="close-popup">&times;</span>
+            <h2>Get <span style="color:#fb9a09;">3 Months FREE</span> Monitoring!</h2>
+            <p>Call now and secure your home with our exclusive limited-time offer.</p>
+            <div class="text-center">
+                            <a href="tel:+15037146222" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
+                        </div>
+        </div>
+ </div>
 
-    <div class="sale-left">
-      <h2>FLASH<br><span>SALE</span></h2>
-      <p>Don't miss out on exclusive home security offers!</p>
-    </div>
+     <script>
+    // Show popup after 2 seconds
+    setTimeout(function() {
+        document.getElementById("promoPopup").style.display = "flex";
+    }, 2000);
 
-    <div class="sale-right">
-      <h2 class="sale-title">Free Monitoring</h2>
-      <p class="sale-text">Get <strong class="highlights">3 Months FREE Monitoring</strong> for your home.</p>
-      <p class="sale-subtext">Call now and secure your home with our limited-time offer.</p>
-      <a href="tel:+18883707485" class="call-button"><i class='bx bx-phone'></i> Call Now +1-888-370-7485</a>
-    </div>
-  </div>
-</div>
+    // Close Popup
+    document.querySelector(".close-popup").onclick = function () {
+        document.getElementById("promoPopup").style.display = "none";
+    };
+
+    // Close when clicking outside the popup
+    window.onclick = function (e) {
+        if (e.target == document.getElementById("promoPopup")) {
+            document.getElementById("promoPopup").style.display = "none";
+        }
+    };
+</script>
 
 <style>
+    /* Popup Overlay */
 /* Overlay */
-.sale-popup {
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,0.65);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 99999;
-  animation: fadeIn 0.4s ease;
+.promo-popup-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(4px);
+    z-index: 99999;
+    animation: fadeIn 0.4s ease-out;
 }
 
 /* Popup Box */
-.sale-popup-inner {
-  display: flex;
-  background: #fff;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.3);
-  max-width: 700px;
-  width: 90%;
-  position: relative;
-  animation: slideUp 0.5s ease;
-  font-family: 'Arial', sans-serif;
-}
-
-/* Close Button */
-.sale-close {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 28px;
-  color: #555;
-  background: none;
-  border: none;
-  cursor: pointer;
-  transition: 0.3s;
-}
-.sale-close:hover { color: #ff4b4b; }
-
-/* Left Section */
-.sale-left {
-  background: #fb9a09;
-  flex: 1 1 45%;
-  padding: 40px 30px;
-  text-align: left;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.sale-left h2 {
-  font-size: 3.5rem;
-  font-weight: 900;
-  color: #fff;
-  margin-bottom: 10px;
-}
-.sale-left span {
-  display: block;
-  font-size: 2.5rem;
-  color: #fff;
-}
-.sale-left p {
-  font-size: 1rem;
-  color: #fff;
-  margin-top: 10px;
-  line-height: 1.4;
-}
-
-/* Right Section */
-.sale-right {
-  flex: 1 1 55%;
-  background: #ede8ff;
-  padding: 50px 35px;
-  text-align: center;
-}
-.sale-title {
-  font-size: 3rem;
-  font-weight: 900;
-  color: #00235a;
-  margin-bottom: 15px;
-}
-.sale-text {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #555;
-  margin-bottom: 10px;
-}
-.sale-subtext {
-  font-size: 0.95rem;
-  color: #000000ff;
-  margin-bottom: 25px;
-}
-
-/* Call Button */
-.call-button {
-  display: inline-block;
-  background: #fb9a09;
-  color: #fff;
-  font-weight: 700;
-  font-size: 1rem;
-  padding: 12px 20px;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-.call-button:hover {
-  background: #e09627ff;
-  transform: translateY(-3px);
-}
-
-/* Animations */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes slideUp {
-  from { transform: translateY(50px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  .sale-popup-inner {
-    flex-direction: column;
+.promo-popup {
+    background: rgba(255, 255, 255, 0.97);
+    width: 90%;
+    max-width: 520px;
+    padding: 40px 35px;
+    border-radius: 28px;
     text-align: center;
-  }
-  .sale-left {
-    padding: 30px 20px;
-  }
-  .sale-right {
-    padding: 30px 20px;
-  }
-  .call-button {
-    width: 100%;
-  }
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.25);
+    animation: popupZoom 0.45s ease-in-out;
 }
+
+/* Logo */
+.popup-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+
+.popup-logo img {
+    width: 180px;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Title */
+.promo-popup h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: #111;
+    margin-bottom: 12px;
+    letter-spacing: -0.5px;
+}
+
+/* Content text */
+.promo-popup p {
+    font-size: 17px;
+    color: #444;
+    margin-bottom: 28px;
+    line-height: 1.6em;
+}
+
+/* Close button */
+.close-popup {
+    position: absolute;
+    top: 15px;
+    right: 18px;
+    font-size: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #666;
+    transition: 0.25s ease;
+}
+
+.close-popup:hover {
+    color: #fb9a09;
+    transform: rotate(90deg);
+}
+
 </style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  // Show popup after 2 seconds
-  setTimeout(() => {
-    document.getElementById("salePopup").style.display = "flex";
-  }, 2000);
-
-  // Close button
-  document.querySelector(".sale-close").addEventListener("click", () => {
-    document.getElementById("salePopup").style.display = "none";
-  });
-
-  // Close when clicking outside the popup box
-  document.getElementById("salePopup").addEventListener("click", e => {
-    if (e.target.id === "salePopup") {
-      document.getElementById("salePopup").style.display = "none";
-    }
-  });
-});
-</script>
-
 
 
         <!-- js assets -->
