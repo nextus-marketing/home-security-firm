@@ -353,7 +353,7 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="key-feature">
-                                                <i class="icofont-ui-timer"></i>
+                                                <i class="fas fa-puzzle-piece"></i>
                                                 <div class="feature-content">
                                                     <h3>Customized Solutions</h3>
                                                     <p>We create tailored security systems to fit your lifestyle, ensuring maximum protection for your home.</p>
@@ -362,7 +362,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="key-feature">
-                                                <i class="icofont-money"></i>
+                                                <i class="fas fa-screwdriver-wrench"></i>
                                                 <div class="feature-content">
                                                     <h3>Expert Installation</h3>
                                                     <p>Our certified professionals guarantee flawless installation and ongoing support for all security systems.</p>
@@ -371,7 +371,7 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="key-feature">
-                                                <i class="icofont-businessman"></i>
+                                                <i class="fas fa-cloud"></i>
                                                 <div class="feature-content">
                                                     <h3>Smart Technology</h3>
                                                     <p>Integrating cutting-edge technology for seamless home automation and enhanced security features.</p>
