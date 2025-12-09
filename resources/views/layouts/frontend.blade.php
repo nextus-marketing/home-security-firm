@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-    
-<!-- Mirrored from preview.robertbiswas.com/html/truder// by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Dec 2025 15:23:56 GMT -->
 <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
+        <meta name="description" content="Protect your home with advanced CCTV, 24/7 monitoring, and smart security solutions. Expert installation and support in Hillsboro. Secure your home today!" />
         <title>@yield('title')</title>
         <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
         <link rel="canonical" href="{{ url()->current() }}" />
@@ -347,6 +345,4 @@
         <script src="/frontend/assets/js/wow.min.js"></script>
         <script src="/frontend/assets/js/main.js"></script>
     </body>
-
-<!-- Mirrored from preview.robertbiswas.com/html/truder// by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Dec 2025 15:24:12 GMT -->
 </html>

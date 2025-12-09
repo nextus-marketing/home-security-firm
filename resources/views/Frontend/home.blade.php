@@ -1,5 +1,6 @@
 @extends('layouts.frontend')
-@section('title') Home | Home Security Firm @endsection
+@section('title') Reliable Home Security Systems & CCTV Solutions | Home Security Firm
+ @endsection
 @section('content')
 <style>
     @media (max-width: 1399px) {
