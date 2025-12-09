@@ -10,7 +10,6 @@
         <link rel="shortcut icon" href="/frontend/my-img/favicon.png" />
         <!-- google fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet" />
-
         <!-- css assets -->
         <link href="/frontend/assets/css/bootstrap.min.css" rel="stylesheet" />
         <link href="/frontend/assets/css/icofont.min.css" rel="stylesheet" />
