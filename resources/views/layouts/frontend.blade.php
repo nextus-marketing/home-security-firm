@@ -44,7 +44,6 @@
                                 <div class="logo">
                                     <a href="/">
                                         <img src="/frontend/my-img/logo.png" 
-                                            srcset="/frontend/my-img/logo@2x.png 2x, /frontend/my-img/logo@3x.png 3x"
                                             alt="logo" 
                                             style="height:55px; width:auto;">
                                     </a>
