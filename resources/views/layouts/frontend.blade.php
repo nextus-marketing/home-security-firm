@@ -119,8 +119,8 @@
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/#about">About</a></li>
                                     <li><a href="/#contact">Contact</a></li>
-                                    <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                    <li><a href="/terms-and-conditon">Terms & Condition</a></li>
+                                    <!-- <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                    <li><a href="/terms-and-conditon">Terms & Condition</a></li> -->
                                 </ul>
                             </div>
                         </div>
@@ -159,11 +159,23 @@
             </div>
 
                 <!-- /.footer-middle -->
-                <div class="footer-bottom">
-                    <div class="container">
-                        <p>Copyright © <span>2025 Home Security Firm</span> | All Rights Reserved.</p>
-                    </div>
-                </div>
+                <div class="footer-bottom" style="padding:15px 0;">
+    <div class="container d-flex justify-content-between align-items-center flex-wrap">
+
+        <!-- Left Side -->
+        <p class="mb-0" style="color:#fff;">
+            Copyright © <span>2025 Home Security Firm</span> | All Rights Reserved.
+        </p>
+
+        <!-- Right Side -->
+        <ul class="mb-0 d-flex" style="list-style:none; gap:20px; padding:0; margin:0;">
+            <li><a href="/privacy-policy" style="color:#fff; text-decoration:none;">Privacy Policy</a></li> ||
+            <li><a href="/terms-and-conditon" style="color:#fff; text-decoration:none;">Terms & Condition</a></li>
+        </ul>
+
+    </div>
+</div>
+
                 <!-- /.footer-bottom -->
             </footer>
             <!-- footer end -->
