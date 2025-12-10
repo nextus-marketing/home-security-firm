@@ -54,82 +54,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- /.carousel-item -->
-                            <!-- <div class="carousel-item">
-                                <div class="item-inner" style="background-image: url(/frontend/assets/img/bg/02.jpg);">
-                                    <div class="container h-100">
-                                        <div class="row h-100 align-items-center">
-                                            <div class="col-xl-6 col-lg-8">
-                                                <div class="slider-content">
-                                                    <h2 data-animation="animate__animated animate__fadeInUp animD-1">Safe Home And Office.</h2>
-                                                    <p data-animation="animate__animated animate__fadeInUp animD-2">We provide CCTV surveillance cameras, personal and all kinds of related services for home, office, and industry.</p>
-                                                    <a href="#0" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">All Services <i class="icofont-double-right"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="scroling-lines">
-                                            <span>
-                                                <span data-parallax='{"y":750, "smoothness":45}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":-550, "smoothness":55}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":250, "smoothness":65}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":650, "smoothness":25}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":-450, "smoothness":45}'></span>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!-- /.carousel-item -->
-                            <!-- <div class="carousel-item">
-                                <div class="item-inner" style="background-image: url(/frontend/assets/img/bg/03.jpg);">
-                                    <div class="container h-100">
-                                        <div class="row h-100 align-items-center">
-                                            <div class="col-xl-6 col-lg-8">
-                                                <div class="slider-content">
-                                                    <h2 data-animation="animate__animated animate__fadeInUp animD-1">Safe Home And Office.</h2>
-                                                    <p data-animation="animate__animated animate__fadeInUp animD-2">We provide CCTV surveillance cameras, personal and all kinds of related services for home, office, and industry.</p>
-                                                    <a href="#0" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">All Services <i class="icofont-double-right"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="scroling-lines">
-                                            <span>
-                                                <span data-parallax='{"y":750, "smoothness":45}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":-550, "smoothness":55}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":250, "smoothness":65}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":650, "smoothness":25}'></span>
-                                            </span>
-                                            <span>
-                                                <span data-parallax='{"y":-450, "smoothness":45}'></span>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!-- /.carousel-item -->
                         </div>
-
-                        <!-- Controls -->
-                        <!-- <a class="carousel-control-prev" href="#mainSlider" role="button" data-slide="prev">
-                            <i class="icofont-double-left"></i>
-                        </a>
-                        <a class="carousel-control-next" href="#mainSlider" role="button" data-slide="next">
-                            <i class="icofont-double-right"></i>
-                        </a> -->
                     </div>
                 </div>
                 <!-- slider-wrapper end -->
@@ -142,7 +67,7 @@
                         <div class="row justify-content-center">
                             <div class="col-xl-6">
                                 <div class="section-header text-center overflow-hidden wow animate__animated animate__slow animate__fadeInUp">
-                                    <h2>Pioneering Home Security In Hillsboro, Oregon</h2>
+                                    <h2>Pioneering Modern Home Security</h2>
                                     <p>Discover how our local expertise and innovative solutions work together to create a safer home environment for our community.</p>
                                 </div>
                             </div>
@@ -198,9 +123,9 @@
                             <div class="col-lg-6">
                                 <div class="about-content">
                                     <h2>Our Story And Mission</h2>
-                                    <h4>Home Security Firm has been serving Hillsboro with dedication, providing effective home security solutions tailored to individual needs.</h4>
+                                    <h4>Home Security Firm has been serving with dedication, providing effective home security solutions tailored to individual needs.</h4>
                                     <p>
-                                     Home Security Firm has been serving Hillsboro with dedication, delivering reliable, innovative, and affordable security solutions designed to protect what matters most. With years of experience, we focus on helping homeowners feel confident and secure through advanced technology and personalized service.
+                                     Home Security Firm has been serving with dedication, delivering reliable, innovative, and affordable security solutions designed to protect what matters most. With years of experience, we focus on helping homeowners feel confident and secure through advanced technology and personalized service.
                                     </p>
                                     <a href="tel:+15037146222" class="theme-btn">Contact Us <i class="icofont-double-right"></i></a>
                                 </div>
@@ -553,7 +478,7 @@
                     </h2>
                     <p style="font-size:18px; margin-top:15px;">
                         Home Security Firm is dedicated to delivering innovative security solutions 
-                        that cater to the needs of families and businesses in Hillsboro and surrounding areas.
+                        that cater to the needs of families and businesses in and surrounding areas.
                     </p>
                 </div>
 

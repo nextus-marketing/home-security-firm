@@ -295,7 +295,7 @@
 }
 
 .popup-logo img {
-    width: 180px;
+    width: 240px;
     height: auto;
     object-fit: contain;
 }
