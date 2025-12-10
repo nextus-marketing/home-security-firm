@@ -53,7 +53,7 @@
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-lg ml-lg-auto mr-xl-auto">
                                 <div class="navbar-header clearfix">
-                                    <div class="logo"><a href="/"><img src="/frontend/my-img/logo.png" alt="logo" style="width:auto; height:55px;"></a></div>
+                                    <a href="/"><img src="/frontend/my-img/logo.png" alt="logo" style="width:250px; height:55px;"></a>
                                     <!-- Toggle Button -->
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-one">
                                         <span class="icon-bar"></span>
