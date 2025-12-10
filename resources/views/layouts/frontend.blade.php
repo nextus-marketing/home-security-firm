@@ -229,7 +229,7 @@
         <div class="promo-popup">
             <!-- Logo Centered -->
             <div class="popup-logo">
-                 <img src="/frontend/my-img/logo.png" alt="logo" style="max-width:220px;">
+                 <img src="/frontend/my-img/logo.png" alt="logo">
             </div>
             <span class="close-popup">&times;</span>
             <h2>Get <span style="color:#fb9a09;">3 Months FREE</span> Monitoring!</h2>
@@ -295,7 +295,7 @@
 }
 
 .popup-logo img {
-    width: 240px;
+    width: 300px;
     height: auto;
     object-fit: contain;
 }
