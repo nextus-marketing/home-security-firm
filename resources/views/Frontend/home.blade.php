@@ -424,7 +424,7 @@
                                                     <img src="/frontend/assets/img/testimony/03.jpg" alt="Reviewed By" />
                                                     <div class="reviewed-by">
                                                         <h3>David Brown</h3>
-                                                        <span>UI/UX Designer</span>
+                                                        <span>Director</span>
                                                     </div>
                                                 </div>
                                             </div>
