@@ -114,7 +114,7 @@ ul.custom-bullet li::before {
                     </br>
                     <h4>13. Contact Us</h4>
                     <p>
-                        Phone: <a href="tel:+15037146222">+1 (503) 714-6222</a><br>
+                        Phone: <a href="tel:+15715195912">+1 (571) 519-5912</a><br>
                         Email: <a href="mailto:info@homesecurityfirm.com">info@homesecurityfirm.com</a><br>
                         Address: 973 NE Queens Ln, Hillsboro, OR 97124
                     </p>

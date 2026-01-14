@@ -30,7 +30,7 @@
                                                 <div class="slider-content">
                                                     <h1 data-animation="animate__animated animate__fadeInUp animD-1">Your Trusted Home Security Partner</h1>
                                                     <p data-animation="animate__animated animate__fadeInUp animD-2">Empowering homeowners with state-of-the-art security solutions for peace of mind and safety.</p>
-                                                    <a href="tel:+15037146222" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
+                                                    <a href="tel:+15715195912" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -127,7 +127,7 @@
                                     <p>
                                      Home Security Firm has been serving with dedication, delivering reliable, innovative, and affordable security solutions designed to protect what matters most. With years of experience, we focus on helping homeowners feel confident and secure through advanced technology and personalized service.
                                     </p>
-                                    <a href="tel:+15037146222" class="theme-btn">Contact Us <i class="icofont-double-right"></i></a>
+                                    <a href="tel:+15715195912" class="theme-btn">Contact Us <i class="icofont-double-right"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -253,7 +253,7 @@
                             </div>
                         </div>
                         <div class="text-center">
-                            <a href="tel:+15037146222" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
+                            <a href="tel:+15715195912" class="theme-btn">Call Now <i class="icofont-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                     <div class="container overflow-hidden">
                         <div class="call-to-action wow animate__animated animate__slow animate__slideInUp">
                             <h2>Secure Your Home Now</h2>
-                            <a href="tel:+15037146222" class="theme-btn">Call for Support <i class="icofont-double-right"></i></a>
+                            <a href="tel:+15715195912" class="theme-btn">Call for Support <i class="icofont-double-right"></i></a>
                         </div>
                     </div>
             </div>
@@ -304,7 +304,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="tel:+15037146222" class="theme-btn mt-5">Contact Us <i class="icofont-double-right"></i></a>
+                                    <a href="tel:+15715195912" class="theme-btn mt-5">Contact Us <i class="icofont-double-right"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -484,7 +484,7 @@
 
                 <!-- Center Button -->
                 <div>
-                    <a href="tel:+15037146222">
+                    <a href="tel:+15715195912">
                        Speak With an Expert <i class="icofont-double-right"></i>
                     </a>
                 </div>
