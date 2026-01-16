@@ -59,8 +59,7 @@
                 </div>
                 <!-- slider-wrapper end -->
                 <!-- ================== -->
-
-                <!-- ===================== -->
+                <!-- ================== -->
                 <!-- feature-section start -->
                 <div class="feature-section">
                     <div class="container">
