@@ -152,7 +152,7 @@
                                         <li>
                                             <a id="tab-01" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">
                                                 <figure>
-                                                    <img src="/frontend/assets/img/about/thumb/01.jpg" alt="about img-gallery" />
+                                                    <img src="/frontend/my-img/01.webp" alt="about img-gallery" />
                                                 </figure>
                                             </a>
                                         </li>
@@ -181,7 +181,7 @@
 
                 <!-- ===================== -->
                 <!-- service-section start -->
-                <div class="service-section">
+            <div class="service-section">
                     <div class="container-xl">
                         <div class="row justify-content-center">
                             <div class="col-xl-6">
