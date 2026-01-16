@@ -139,7 +139,7 @@
                                         </div>
                                         <div class="tab-pane fade show active" id="tab2" role="tabpanel" aria-labelledby="tab-02">
                                             <figure>
-                                                <img src="/frontend/assets/img/about/02.jpg" alt="Gallery Image" />
+                                                <img src="/frontend/my-img/02.jpg" alt="Gallery Image" />
                                             </figure>
                                         </div>
                                         <div class="tab-pane fade" id="tab3" role="tabpanel" aria-labelledby="tab-03">
