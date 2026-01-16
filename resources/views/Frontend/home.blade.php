@@ -159,14 +159,14 @@
                                         <li>
                                             <a class="active" id="tab-02" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="true">
                                                 <figure>
-                                                    <img src="/frontend/assets/img/about/thumb/02.jpg" alt="about img-gallery" />
+                                                    <img src="/frontend/my-img/02-sm.webp" alt="about img-gallery" />
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a id="tab-03" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3" aria-selected="false">
                                                 <figure>
-                                                    <img src="/frontend/assets/img/about/thumb/03.jpg" alt="about img-gallery" />
+                                                    <img src="/frontend/my-img/03.webp" alt="about img-gallery" />
                                                 </figure>
                                             </a>
                                         </li>
