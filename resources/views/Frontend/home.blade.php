@@ -199,7 +199,7 @@
                                     <div class="service-single">
                                         <figure>
                                             <a href="#0">
-                                                <img src="/frontend/assets/img/service/01.jpg" alt="Service Thumb" />
+                                                <img src="/frontend/my-img/adv.jpg" alt="Service Thumb" />
                                             </a>
                                         </figure>
                                         <div class="service-card">
