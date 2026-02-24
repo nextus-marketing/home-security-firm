@@ -99,7 +99,6 @@
                                 </a>
                             </li>
                         </ul>
-                        
                         <div class="d-block d-lg-none">
                             <!-- Add dashbord logo here     -->
 							<img src="/backend/dashbord-logo.png" width="180" alt="" />
