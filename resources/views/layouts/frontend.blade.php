@@ -137,12 +137,12 @@
                                                     <a href="tel:+18884476319">+1 (888) 447-6319</a>
                                                 </span>
                                             </p>
-                                            <p>
+                                            <!-- <p>
                                                 <i class="icofont-email"></i>
                                                 <span>
                                                     <a href="mailto:info@homesecurityfirm.com">info@homesecurityfirm.com</a>
                                                 </span>
-                                            </p>
+                                            </p> -->
                                         </div>
                                     </div>
                                 </div>

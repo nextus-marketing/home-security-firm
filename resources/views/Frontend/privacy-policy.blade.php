@@ -130,7 +130,7 @@ ul.custom-bullet li::before {
                         If you have any questions about this Privacy Policy or how we handle your personal information, please contact us:
                         <br><br>
                        Phone: <a href="tel:+18884476319">+1 (888) 447-6319</a><br>
-                        Email: <a href="mailto:info@homesecurityfirm.com">info@homesecurityfirm.com</a><br>
+                        <!-- Email: <a href="mailto:info@homesecurityfirm.com">info@homesecurityfirm.com</a><br> -->
                         Address: 973 NE Queens Ln, Hillsboro, OR 97124
                     </p>
 
