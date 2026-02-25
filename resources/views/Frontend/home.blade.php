@@ -30,7 +30,8 @@
                                         <div class="slider-content">
                                             <h1 data-animation="animate__animated animate__fadeInUp animD-1">Your Trusted Home Security Partner</h1>
                                             <p data-animation="animate__animated animate__fadeInUp animD-2">Empowering homeowners with state-of-the-art security solutions for peace of mind and safety.</p>
-                                            <a href="tel:+18884476319" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Connect Now<i class="icofont-double-right"></i></a>
+                                            <a href="tel:+18884476319" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">Call Now<i class="icofont-double-right"></i></a>
+                                            <a href="tel:+15715195912" data-animation="animate__animated animate__fadeInUp animD-3" class="theme-btn">+1 (571) 519-5912<i class="icofont-double-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -482,11 +483,16 @@
                         </div>
 
                         <!-- Center Button -->
-                        <div>
+                        <div style="display: flex; gap:10px; justify-content:center;">
                             <a href="tel:+18884476319">
                             Speak With an Expert <i class="icofont-double-right"></i>
                             </a>
+
+                            <a href="tel:+15715195912">
+                            +1 (571) 519-5912 <i class="icofont-double-right"></i>
+                            </a>
                         </div>
+                        
 
                     </div>
                 </div>
